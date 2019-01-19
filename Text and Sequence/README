@@ -1,0 +1,18 @@
+In this notebook, we have discussed
+
+- Preprocessing text data into useful representations
+    - One-hot encoding of words and characters
+    - Using word embeddings
+        - LEARNING WORD EMBEDDINGS WITH THE EMBEDDING LAYER
+        - USING PRETRAINED WORD EMBEDDINGS (GloVe)
+- Recurrent neural networks
+    - A recurrent layer in Keras
+    - Understanding the LSTM and GRU layers
+- Advanced use of recurrent neural networks
+    - A temperature-forecasting problem
+    - Using recurrent dropout to fight overfitting
+    - Stacking recurrent layers
+    - Using bidirectional RNNs
+- Sequence processing with convnets
+    - Understanding 1D convolution for sequence data
+    - Combining CNNs and RNNs to process long sequences
