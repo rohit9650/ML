@@ -4,3 +4,6 @@ transfer learning
 
 - use a pretrained neural network to train "cats" vs "dogs" classification
 on 100 images of cats and 100 images of dogs
+
+
+It is at : https://github.com/rohit9650/kaggle
