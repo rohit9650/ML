@@ -1,0 +1,6 @@
+Assignment 6:
+
+transfer learning
+
+- use a pretrained neural network to train "cats" vs "dogs" classification
+on 100 images of cats and 100 images of dogs
