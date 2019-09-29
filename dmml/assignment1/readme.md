@@ -5,6 +5,10 @@ A K-itemset of words is a collection of words of size K that occur together in t
 length atmost k.)
 
 The input will be of the form -k=(value of K) -f=(value of F) -d=(name of the dataset)
+These are the inputs we used for the output:
+-k=5 -f=500 -d=kos
+-k=3 -f=2000 -d=enron
+-k=4 -f=1000 -d=nips
 
 Our code runs as follows:
 
