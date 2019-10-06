@@ -1,0 +1,47 @@
+
+(rohit) Rohits-MacBook-Pro:~ rohitsingh$ python Desktop/sem_3/dmml/assignment2/assign2.py 
+
+
+----------------- Decision tree ----------------
+
+crosss validation scores : 
+[0.6582803  0.6582803  0.63238123 0.68354056 0.65822972 0.65832717
+ 0.72331606 0.65832717 0.52805329 0.65842464]
+Accuracy: 0.65 (+/- 0.09)
+
+
+-----------------  Naive Bayes  ----------------
+
+crosss validation scores : 
+[0.66479207 0.65887228 0.58147107 0.70130255 0.66474245 0.7015544
+ 0.63360474 0.70510733 0.56550703 0.52191294]
+Accuracy: 0.64 (+/- 0.12)
+//anaconda3/envs/rohit/lib/python3.7/site-packages/sklearn/svm/base.py:929: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  "the number of iterations.", ConvergenceWarning)
+//anaconda3/envs/rohit/lib/python3.7/site-packages/sklearn/svm/base.py:929: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  "the number of iterations.", ConvergenceWarning)
+//anaconda3/envs/rohit/lib/python3.7/site-packages/sklearn/svm/base.py:929: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  "the number of iterations.", ConvergenceWarning)
+//anaconda3/envs/rohit/lib/python3.7/site-packages/sklearn/svm/base.py:929: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  "the number of iterations.", ConvergenceWarning)
+//anaconda3/envs/rohit/lib/python3.7/site-packages/sklearn/svm/base.py:929: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  "the number of iterations.", ConvergenceWarning)
+//anaconda3/envs/rohit/lib/python3.7/site-packages/sklearn/svm/base.py:929: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  "the number of iterations.", ConvergenceWarning)
+//anaconda3/envs/rohit/lib/python3.7/site-packages/sklearn/svm/base.py:929: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  "the number of iterations.", ConvergenceWarning)
+//anaconda3/envs/rohit/lib/python3.7/site-packages/sklearn/svm/base.py:929: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  "the number of iterations.", ConvergenceWarning)
+//anaconda3/envs/rohit/lib/python3.7/site-packages/sklearn/svm/base.py:929: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  "the number of iterations.", ConvergenceWarning)
+//anaconda3/envs/rohit/lib/python3.7/site-packages/sklearn/svm/base.py:929: ConvergenceWarning: Liblinear failed to converge, increase the number of iterations.
+  "the number of iterations.", ConvergenceWarning)
+
+
+-----------------      SVM      ----------------
+
+crosss validation scores : 
+[0.71733018 0.69897884 0.77149623 0.79085258 0.67569568 0.64944486
+ 0.76047372 0.72094745 0.7119171  0.75303524]
+Accuracy: 0.73 (+/- 0.08)
+(rohit) Rohits-MacBook-Pro:~ rohitsingh$ 
