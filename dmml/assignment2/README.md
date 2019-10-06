@@ -1,5 +1,4 @@
 This is the second DMML assignment submission by Rohit Singh(MCS201812) & Shrisha Rao(MCS201916)
-OUTPUT is given below
 
 Documentation:
 We are using sicketLearn library in our code
